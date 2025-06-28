@@ -1,0 +1,8 @@
+baseURL = 'https://phosphor.srp.life/'
+languageCode = 'en-au'
+title = 'Phosphor'
+theme = 'nightfall-phosphor'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
