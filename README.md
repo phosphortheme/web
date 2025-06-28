@@ -1,7 +1,7 @@
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/phosphortheme/assets/refs/heads/main/icons/icon-bright.svg" width="100" alt="icon"/>
     <br><br>
-    Website for the <a href="https://github.com/phosphortheme/phosphor">Phosphor Theme</a>
+    Website for the <a href="https://github.com/phosphortheme/phosphor">Phosphor theme</a>.
 </h3>
 
 <p align="center">Copyright &copy; 2025 <a href="https://github.com/orgs/phosphortheme/people" target="_blank">Seraphim Pardee</a> and contributors.</p>
