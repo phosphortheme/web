@@ -1,6 +1,6 @@
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/phosphortheme/assets/refs/heads/main/icons/icon-bright.svg" width="100" alt="icon"/>
-    <br><br>
+    <br>
     Website for the <a href="https://github.com/phosphortheme/phosphor">Phosphor</a> theme.
 </h3>
 
